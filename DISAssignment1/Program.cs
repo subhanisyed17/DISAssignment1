@@ -29,6 +29,11 @@ namespace DISAssignment1
 			Console.WriteLine("Press any key to exit");
 			Console.ReadKey(true);
 
+			/* Self-reflections
+			 My Learnings    : Got a better idea about when to use which loop out of for, foreach, do while ,while
+						       and revised, got good hands on working with arrays and array elements comparison
+			 Recommendations : Personally I felt that there should have been one question atleast to solve using string builders and Jagged arrays concept*/
+
 		}// end of main
 
 		public static void printPrimeNumbers(int x, int y)
